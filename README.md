@@ -59,7 +59,7 @@
 **Acknowledgements**
 ---
 
-**CSI SFIT Tech Team 2020 - 2021 :**
+**CSI SFIT Tech Team 2020 - 2021:**
 + Tech Executive : [@Varun-Patkar](https://github.com/Varun-Patkar)
 + Tech Executive : [@EktaMasrani](https://github.com/ekta18)
 
